@@ -2,7 +2,7 @@
 
 🎯 **Sinh viên Công nghệ Thông tin** – đam mê công nghệ, yêu thích trải nghiệm người dùng và luôn tìm cách kết nối giữa **người dùng – nghiệp vụ – hệ thống** thông qua:
 
-- 📱 **Lập trình di động** (Flutter, Java Android)
+- 📱 **Lập trình di động (Flutter)**
 - 📊 **Phân tích nghiệp vụ (Business Analyst)**
 - 🎨 **Thiết kế giao diện người dùng (UI/UX – Figma, Web Frontend)**
 
